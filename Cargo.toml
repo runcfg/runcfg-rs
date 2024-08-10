@@ -1,11 +1,11 @@
 [package]
-name = "runcfg-rs"
+name = "runcfg"
 version = "1.0.0"
 authors = ["Aaron Colwill <git@runcfg.com>"]
 license = "MIT"
 edition = "2021"
 homepage = "https://runcfg.com"
-repository = "github.com/runcfg/runcfg-rs"
+repository = "https://github.com/runcfg/runcfg-rs"
 description = "runcfg rust client library"
 
 [dependencies]
