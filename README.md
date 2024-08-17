@@ -4,7 +4,7 @@
 
 First download dependency using cargo
 ```shell
-$ cargo add runcfg-rs
+$ cargo add runcfg
 ```
 
 Alternatively you can add this to your `cargo.toml`
